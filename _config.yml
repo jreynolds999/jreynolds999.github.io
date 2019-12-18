@@ -60,11 +60,12 @@ plugins:
 author:
   name   : "Jonathan Reynolds"
   avatar : "/_data/JR Headshot.jpg"
-  bio    : "I'm a Data Analyst with 5+ years experience in client-facing strategic consulting."
+  bio    : "Jonathan is a strategic consultant with 5+ years experience in client-facing roles, with updated 
+technical skills in Python, Data Analysis, Machine Learning, Natural Language Processing, and Data Visualization."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://jreynolds999.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/_jreynolds999"
