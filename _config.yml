@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Jonathan Reynolds"
-  avatar : "/_data/JR Headshot.jpg"
+  avatar : "/_data/JR_Headshot.jpg"
   bio    : "Jonathan is a strategic consultant with 5+ years experience in client-facing roles, with updated 
 technical skills in Python, Data Analysis, Machine Learning, Natural Language Processing, and Data Visualization."
   links:
